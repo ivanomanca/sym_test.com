@@ -1,0 +1,14 @@
+parameters:
+    database_driver: pdo_mysql
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: sym_test_db
+    database_user: root
+    database_password: sisaos
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    locale: en
+    secret: 1deac5cda2b66a27ba8d926853a88c3ca78da258
+    database_path: null
